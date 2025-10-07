@@ -11,8 +11,8 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Pack of Beans",
-  "version": "0.1.0",
+  "name": "pack_of_beans",
+  "version": "0.2.0",
   "author": "",
   "files": [
     {
@@ -36,6 +36,11 @@
       "required": true
     },
     {
+      "projectID": 291874,
+      "fileID": 7064165,
+      "required": true
+    },
+    {
       "projectID": 342584,
       "fileID": 7062702,
       "required": true
@@ -43,6 +48,11 @@
     {
       "projectID": 367178,
       "fileID": 7066276,
+      "required": true
+    },
+    {
+      "projectID": 248787,
+      "fileID": 7075798,
       "required": true
     },
     {
@@ -58,6 +68,11 @@
     {
       "projectID": 324717,
       "fileID": 7056468,
+      "required": true
+    },
+    {
+      "projectID": 955399,
+      "fileID": 7069152,
       "required": true
     },
     {

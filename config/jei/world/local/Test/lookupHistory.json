@@ -1,0 +1,6 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"resource_backpacks:backpack_gold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"resource_backpacks:backpack_diamond"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"resource_backpacks:backpack_end"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
