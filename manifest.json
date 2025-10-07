@@ -1,0 +1,75 @@
+{
+  "minecraft": {
+    "version": "1.21.9",
+    "modLoaders": [
+      {
+        "id": "neoforge-21.9.14-beta",
+        "primary": true
+      }
+    ],
+    "recommendedRam": 4000
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "Pack of Beans",
+  "version": "0.1.0",
+  "author": "",
+  "files": [
+    {
+      "projectID": 1076278,
+      "fileID": 7070660,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 7069591,
+      "required": true
+    },
+    {
+      "projectID": 429235,
+      "fileID": 7061593,
+      "required": true
+    },
+    {
+      "projectID": 858542,
+      "fileID": 7064736,
+      "required": true
+    },
+    {
+      "projectID": 342584,
+      "fileID": 7062702,
+      "required": true
+    },
+    {
+      "projectID": 367178,
+      "fileID": 7066276,
+      "required": true
+    },
+    {
+      "projectID": 32274,
+      "fileID": 7074253,
+      "required": true
+    },
+    {
+      "projectID": 250398,
+      "fileID": 7066756,
+      "required": true
+    },
+    {
+      "projectID": 324717,
+      "fileID": 7056468,
+      "required": true
+    },
+    {
+      "projectID": 1022944,
+      "fileID": 7056895,
+      "required": true
+    },
+    {
+      "projectID": 316582,
+      "fileID": 7066839,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
